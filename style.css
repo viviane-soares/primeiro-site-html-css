@@ -1,0 +1,64 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background: #eee;
+}
+
+#bannerGeral{
+ width: 1200px;
+ height: 130px;
+ background: #069;
+ margin: 0 auto;
+}
+h1{
+	color: pink;
+	letter-spacing: -1px;
+	text-transform: capitalize;
+	text-shadow: 1px 1px 1px black;
+	
+}
+
+#bannerGeral h1{
+ text-align: center;
+ padding-top: 40px;
+ 
+}
+#topo{
+ background: #ff6600;
+ 
+ width: 1188px;
+ margin: 0 auto;
+ padding: 6px;
+ text-align: center;
+ margin-top: 14px;
+}
+
+#content{
+ background: #ccc;
+ float: left;
+ height: 400px;
+ margin-left: 64px;
+ margin-top: 14px;
+ width: 900px;
+ text-align: center;
+ padding: 4px;
+}
+#sidebar{
+ background: #ccc;
+ float: right;
+ margin-right: 63px;
+ height: 400px;
+ margin-top: 14px;
+ text-align: center;
+ padding: 4px;
+}
+
+#rodape{
+ background: #069;
+ float: left;
+ margin-left: 64px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ text-align: center;
+ width: 1200px;
+}
+

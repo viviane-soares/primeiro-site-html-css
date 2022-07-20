@@ -1,0 +1,19 @@
+h1{
+	color: pink;
+	letter-spacing: -1px;
+	text-transform: capitalize;
+	text-shadow: 1px 1px 1px black;
+	
+}
+.p1{
+	text-indent: 50px;
+	width: 650px;
+	text-align: justify;
+}
+p{ 
+	width: 6650px;
+	font-size: 18px;
+	font-family: verdana, arial, sans-serif;
+}
+	
+	
